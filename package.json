@@ -1,0 +1,22 @@
+{
+  "name": "chat_app",
+  "version": "1.0.0",
+  "description": "Demonstrate the use of sockets in a sample application using typical client and server model.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alfonsosn/chat_app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alfonsosn/chat_app/issues"
+  },
+  "homepage": "https://github.com/alfonsosn/chat_app#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
